@@ -7,8 +7,8 @@ A professional, high-performance **User Management System** built with **React 1
 ## 📸 Screenshots
 
 <div align="center">
-  <img width="1304" height="818" alt="Ekran görüntüsü 2026-04-20 165648" src="https://github.com/user-attachments/assets/f223c720-6837-4003-9fcd-6c6e2e902abc"  width="45%" alt="Dashboard Overview" />
-  <img width="1691" height="820" alt="Ekran görüntüsü 2026-04-20 170235" src="https://github.com/user-attachments/assets/8ec4e8b9-e931-435c-83e5-ae60943131b8" width="45%" alt="User List & Search" />
+  <img alt="Ekran görüntüsü 2026-04-20 165648" src="https://github.com/user-attachments/assets/f223c720-6837-4003-9fcd-6c6e2e902abc"  width="45%" alt="Dashboard Overview" />
+  <img alt="Ekran görüntüsü 2026-04-20 170235" src="https://github.com/user-attachments/assets/8ec4e8b9-e931-435c-83e5-ae60943131b8" width="45%" alt="User List & Search" />
   <p><em>Modern UI design featuring a data-driven dashboard and search functionality.</em></p>
 </div>
 
@@ -19,7 +19,6 @@ A professional, high-performance **User Management System** built with **React 1
 - **Full CRUD Operations**: Create, Read, Update, and Delete user records seamlessly.
 - **Data Persistence**: Uses **LocalStorage** to keep your data safe even after a page refresh.
 - **Interactive Dashboard**:
-  - **Dynamic Chart**: A Donut Chart (via Recharts) showing system capacity.
   - **Live Statistics**: Real-time tracking of total users and local records.
 - **Advanced UX**:
   - **Live Search**: Instant filtering by Name, Email, or Company.
@@ -33,9 +32,7 @@ A professional, high-performance **User Management System** built with **React 1
 
 - **Framework**: [React 18 (Vite)](https://react.dev/)
 - **Styling**: [Tailwind CSS v4](https://tailwindcss.com/)
-- **Icons**: [Lucide React](https://lucide.dev/)
-- **Charts**: [Recharts](https://recharts.org/)
-- **Deployment**: [Netlify](https://www.netlify.com/)
+- **Deployment**: [Netlify](https://asude-kalgi-web-proje.netlify.app/)
 
 ---
 
@@ -54,7 +51,7 @@ src/
 ⚙️ Installation & Setup
 
 1. Clone the repository:
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+    git clone [https://github.com/asude2/staff_menagement_app.git](https://github.com/asude2/staff_menagement_app.git)
 
 2. Install dependencies:
     npm install
