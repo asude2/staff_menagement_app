@@ -7,9 +7,11 @@ A professional, high-performance **User Management System** built with **React 1
 ## 📸 Screenshots
 
 <div align="center">
-  <img height="550 alt="Ekran görüntüsü 2026-04-20 165648" src="https://github.com/user-attachments/assets/f223c720-6837-4003-9fcd-6c6e2e902abc"  width="50%" alt="Dashboard Overview" />
-  <img height="550 alt="Ekran görüntüsü 2026-04-20 170235" src="https://github.com/user-attachments/assets/8ec4e8b9-e931-435c-83e5-ae60943131b8" width="50%" alt="User List & Search" />
-  <p><em>Modern UI design featuring a data-driven dashboard and search functionality.</em></p>
+  <table border="0"><tr><td align="center"><img src="https://github.com/user-attachments/assets/f223c720-6837-4003-9fcd-6c6e2e902abc" width="400" alt="Dashboard Overview" /><br /><em>Dashboard Overview</em></td><td align="center">
+        <img src="https://github.com/user-attachments/assets/8ec4e8b9-e931-435c-83e5-ae60943131b8" width="400" alt="User List & Search" />
+        <br />
+        <em>User List & Search</em></td></tr></table><br />
+  <p><strong>Modern UI design featuring a data-driven dashboard and search functionality.</strong></p>
 </div>
 
 ---
